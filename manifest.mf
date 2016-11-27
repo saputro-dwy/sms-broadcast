@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+SplashScreen-Image: images/splash.png
+SplashScreen-Time: 600
+X-COMMENT: Main-Class will be added automatically by build
+
